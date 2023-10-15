@@ -1,0 +1,96 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.6" />
+            <item index="2" class="java.lang.String" itemvalue="3.7" />
+            <item index="3" class="java.lang.String" itemvalue="3.8" />
+            <item index="4" class="java.lang.String" itemvalue="3.9" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="69">
+            <item index="0" class="java.lang.String" itemvalue="iniparse" />
+            <item index="1" class="java.lang.String" itemvalue="ethtool" />
+            <item index="2" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="3" class="java.lang.String" itemvalue="dash-renderer" />
+            <item index="4" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="5" class="java.lang.String" itemvalue="python-linux-procfs" />
+            <item index="6" class="java.lang.String" itemvalue="pycairo" />
+            <item index="7" class="java.lang.String" itemvalue="cycler" />
+            <item index="8" class="java.lang.String" itemvalue="pycparser" />
+            <item index="9" class="java.lang.String" itemvalue="selinux" />
+            <item index="10" class="java.lang.String" itemvalue="slip.dbus" />
+            <item index="11" class="java.lang.String" itemvalue="systemd-python" />
+            <item index="12" class="java.lang.String" itemvalue="tables" />
+            <item index="13" class="java.lang.String" itemvalue="setools" />
+            <item index="14" class="java.lang.String" itemvalue="sos" />
+            <item index="15" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="16" class="java.lang.String" itemvalue="pyinotify" />
+            <item index="17" class="java.lang.String" itemvalue="SSSDConfig" />
+            <item index="18" class="java.lang.String" itemvalue="xlrd" />
+            <item index="19" class="java.lang.String" itemvalue="gpg" />
+            <item index="20" class="java.lang.String" itemvalue="setroubleshoot" />
+            <item index="21" class="java.lang.String" itemvalue="cryptography" />
+            <item index="22" class="java.lang.String" itemvalue="kiwisolver" />
+            <item index="23" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="24" class="java.lang.String" itemvalue="PySocks" />
+            <item index="25" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="26" class="java.lang.String" itemvalue="dash-core-components" />
+            <item index="27" class="java.lang.String" itemvalue="dash" />
+            <item index="28" class="java.lang.String" itemvalue="file-magic" />
+            <item index="29" class="java.lang.String" itemvalue="pygobject" />
+            <item index="30" class="java.lang.String" itemvalue="idna" />
+            <item index="31" class="java.lang.String" itemvalue="numexpr" />
+            <item index="32" class="java.lang.String" itemvalue="Bottleneck" />
+            <item index="33" class="java.lang.String" itemvalue="decorator" />
+            <item index="34" class="java.lang.String" itemvalue="netifaces" />
+            <item index="35" class="java.lang.String" itemvalue="cffi" />
+            <item index="36" class="java.lang.String" itemvalue="schedutils" />
+            <item index="37" class="java.lang.String" itemvalue="numpy" />
+            <item index="38" class="java.lang.String" itemvalue="requests" />
+            <item index="39" class="java.lang.String" itemvalue="pydbus" />
+            <item index="40" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="41" class="java.lang.String" itemvalue="urllib3" />
+            <item index="42" class="java.lang.String" itemvalue="python-dmidecode" />
+            <item index="43" class="java.lang.String" itemvalue="perf" />
+            <item index="44" class="java.lang.String" itemvalue="scipy" />
+            <item index="45" class="java.lang.String" itemvalue="six" />
+            <item index="46" class="java.lang.String" itemvalue="asn1crypto" />
+            <item index="47" class="java.lang.String" itemvalue="dash-html-components" />
+            <item index="48" class="java.lang.String" itemvalue="syspurpose" />
+            <item index="49" class="java.lang.String" itemvalue="nftables" />
+            <item index="50" class="java.lang.String" itemvalue="plotly" />
+            <item index="51" class="java.lang.String" itemvalue="rpm" />
+            <item index="52" class="java.lang.String" itemvalue="sepolicy" />
+            <item index="53" class="java.lang.String" itemvalue="chardet" />
+            <item index="54" class="java.lang.String" itemvalue="pandas" />
+            <item index="55" class="java.lang.String" itemvalue="dash-table" />
+            <item index="56" class="java.lang.String" itemvalue="slip" />
+            <item index="57" class="java.lang.String" itemvalue="subscription-manager" />
+            <item index="58" class="java.lang.String" itemvalue="pyudev" />
+            <item index="59" class="java.lang.String" itemvalue="configobj" />
+            <item index="60" class="java.lang.String" itemvalue="isc" />
+            <item index="61" class="java.lang.String" itemvalue="rhnlib" />
+            <item index="62" class="java.lang.String" itemvalue="dbus-python" />
+            <item index="63" class="java.lang.String" itemvalue="pciutils" />
+            <item index="64" class="java.lang.String" itemvalue="pytz" />
+            <item index="65" class="java.lang.String" itemvalue="ply" />
+            <item index="66" class="java.lang.String" itemvalue="Pillow" />
+            <item index="67" class="java.lang.String" itemvalue="python-qpid-proton" />
+            <item index="68" class="java.lang.String" itemvalue="fonttools" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
